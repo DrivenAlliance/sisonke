@@ -3,7 +3,7 @@
 We are very proud to be a part of this
 
 *These are our Team Members:*
-- Mandla
+- Rorishang
 - Flora
 - Elizabeth
 - Brian
