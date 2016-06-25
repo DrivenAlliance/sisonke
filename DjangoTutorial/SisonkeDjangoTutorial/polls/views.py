@@ -12,3 +12,9 @@ def jessy(request):
 
 def brian(request):
     return HttpResponse("<html><body><h3>Brian</h3></body></html>")
+
+def florah (request):
+    return HttpResponse("<html><body><h3>I am Florah Weni , a Sisonke Riser .</h3></body></html>")
+
+def vuyisile (request):
+    return HttpResponse("<html><body><h3>I am Vuyisile Weni , a Sisonke Riser .</h3></body></html>")
