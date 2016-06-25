@@ -9,3 +9,9 @@ def about(request):
     
 def tefo(regust):
 	return HttpResponse("<html><body><h2>i'm tefo and i'm rising</h2></body></html>")
+
+def jessy(request):
+    return HttpResponse("<html><body><h3>Jessy</h3></body></html>")
+
+def brian(request):
+    return HttpResponse("<html><body><h3>Brian</h3></body></html>")
