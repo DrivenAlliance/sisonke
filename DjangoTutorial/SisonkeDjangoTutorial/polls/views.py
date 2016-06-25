@@ -6,3 +6,9 @@ def index(request):
 
 def about(request):
     return HttpResponse("<html><body><h2>We are Sisonke Rising</h2></body></html>")
+
+def jessy(request):
+    return HttpResponse("<html><body><h3>Jessy</h3></body></html>")
+
+def brian(request):
+    return HttpResponse("<html><body><h3>Brian</h3></body></html>")
