@@ -5,5 +5,6 @@
 * [HTTP - Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [KISS - keep it simple stupid](https://en.wikipedia.org/wiki/KISS_principle)
 * [HCI - Human Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro)
+* [Agile Manfesto](agilemanifesto.org)
 
 ### Please add new entries to the top of the page
