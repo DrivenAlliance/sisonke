@@ -6,5 +6,7 @@
 * [KISS - keep it simple stupid](https://en.wikipedia.org/wiki/KISS_principle)
 * [HCI - Human Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro)
 * [Agile Manfesto](agilemanifesto.org)
+* [Arrays](http://www.i-programmer.info/programming/python/3942-arrays-in-python.html)
+* [For Loops](https://wiki.python.org/moin/ForLoop)
 
 ### Please add new entries to the top of the page
