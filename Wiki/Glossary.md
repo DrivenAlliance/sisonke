@@ -8,5 +8,8 @@
 * [Agile Manfesto](agilemanifesto.org)
 * [Arrays](http://www.i-programmer.info/programming/python/3942-arrays-in-python.html)
 * [For Loops](https://wiki.python.org/moin/ForLoop)
+* [Swot Analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
+* [Unified Modelling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+* [Stretch goal](http://www.businessdictionary.com/definition/stretch-goal.html)
 
 ### Please add new entries to the top of the page
