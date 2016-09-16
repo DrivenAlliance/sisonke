@@ -1,0 +1,10 @@
+Rock,Paper,Scissors Wins
+Rock,Rock,Tie
+Rock,Paper,Computer Wins
+Rock,Scissors,Player Wins
+Paper,Rock,Player Wins
+Paper,Scissors,Computer Wins
+Paper,Paper,Tie Wins
+Scissors,Rock,Computer Wins
+Scissors,Paper,Player Wins
+Scissors,Scissors,Tie
