@@ -5,7 +5,7 @@ The following concepts are taught using Python:
 
 1. Input / output 
 	This would be reading and outputting to the command line
-2. Variables and arithmetic
+2. [Statements, variables and arithmetic](StatementsVariablesAndArithmetic.md)
 	The different primitive types using variables and maniupulating variables
 3. Conditionals and boolean operators
 	if statements, elif statements and boolean operators like and / or
