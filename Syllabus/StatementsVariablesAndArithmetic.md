@@ -18,8 +18,8 @@ The following are examples of statements: (taken from [Wikipedia](https://en.wik
 
 
 #Extra Reading:
--[Learn Python the Hard Way, More Variables and Printing](https://learnpythonthehardway.org/book/ex5.html)
--[Learn Python The Hard Way, Strings And Text](https://learnpythonthehardway.org/book/ex6.html)
+- [Learn Python the Hard Way, More Variables and Printing](https://learnpythonthehardway.org/book/ex5.html)
+- [Learn Python The Hard Way, Strings And Text](https://learnpythonthehardway.org/book/ex6.html)
 
 
 #Work:
